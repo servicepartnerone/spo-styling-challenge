@@ -1,6 +1,6 @@
 # SPO recruitment task for developers
 
-Hello! Welcome to SPO coding challenge.
+Hello! Welcome to SPO styling based coding challenge.
 This challenge represents a task that is very close to what we are usually working on at SPO.
 You should take no more than 1h to complete it.
 
@@ -12,9 +12,10 @@ Good luck to you and hope you will enjoy the process while solving this task!
 ## Create a responsive list
 
 The aim of this exercise is to create a responsive / adaptive list, that should be optimized for a screen width of 320 - 2000px.
+
 Here is a JSON, that contains all the data, that should be displayed in the list, it includes basically text and images:
 
-eventDetails:
+```
 {
   {
     headline: "Volle Kontrolle und unkomplizierte Abrechnung",
@@ -36,8 +37,8 @@ eventDetails:
     description: "Im Sanitärbereich werden Sie nicht nur mit Toilettenpapier, Seife und Handtuchpapier versorgt, sondern erhalten mit der Anbringung und Unterhaltung der Spendersysteme ein Sorglos-Paket.",
     image: "https://github.com/servicepartnerone/spo-styling-challenge/blob/master/images/C_content_2-600x549.jpg"
   },
-
 }
+```
 
 There are many ways to reach the goal, a good combination of adaptive and responsive styling would be highly appreciated.
 
